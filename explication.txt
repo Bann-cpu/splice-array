@@ -1,0 +1,2 @@
+-> La méthode splice() permet de modifier le contenu d'un tableau, supprimer, ajouter, remplacer
+-> splice(2) = enlève tout les éléments à partir de l'index 2 (i2 est supprimé)
